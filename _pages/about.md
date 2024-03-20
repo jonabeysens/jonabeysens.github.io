@@ -35,3 +35,12 @@ In my free time, I volunteer for the Belgian organization Auxilia to help underp
 - \[08/2021\] Invited to serve as a TPC member for [WCNC'22](https://wcnc2022.ieee-wcnc.org/)
 - \[03/2021\] Started as post-doc at CSEM, Switzerland
 - \[12/2020\] Obtained PhD at KU Leuven
+
+## Services
+### Technical Program Committee
+- 2024: IEEE WCNC'24, DCAI'24 - special session TDAIE
+- 2023: IEEE WCNC'23
+- 2022: EMBDL'22, IEEE WCNC'22
+
+### Organizing Committee
+- 2024: DCAI'24 - special session TDAIE
