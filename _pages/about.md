@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify">
-Hi there! I am an electrical engineer with a passion for wireless communication and embedded systems. I work as a postdoctoral researcher at the Swiss Center for Electronics and Microtechnology (<a href="https://csem.ch">CSEM</a>), on embedded machine learning for low-power Internet of Things (IoT) devices.
+Hi there! I am an electrical engineer with a passion for wireless communication and embedded systems. I work as a Senior R&D Engineer at the Swiss Center for Electronics and Microtechnology (<a href="https://csem.ch">CSEM</a>), on embedded machine learning for low-power Internet of Things (IoT) devices.
 </div>
 <p></p> 
 <div style="text-align: justify">
