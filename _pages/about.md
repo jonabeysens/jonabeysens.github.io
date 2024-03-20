@@ -30,6 +30,8 @@ In my free time, I volunteer for the Belgian organization Auxilia to help underp
 - Internet of Things
 
 ## Recent news
+- \[03/2024\] Promoted to Senior R&D Engineer at CSEM, Switzerland
+- \[10/2023\] Promoted to R&D Engineer at CSEM, Switzerland
 - \[02/2022\] Invited to serve as a TPC member for [EMDL'22](https://emdl22.github.io/)
 - \[09/2021\] Semi-finalist at [Vlaamse PhD Cup 2021](https://www.phdcup.be/editie-2021)
 - \[08/2021\] Invited to serve as a TPC member for [WCNC'22](https://wcnc2022.ieee-wcnc.org/)
