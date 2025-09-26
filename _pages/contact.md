@@ -9,10 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Dr. ir. Jona Beysens
+Prof. Dr. ir. Jona Beysens
 
-Swiss Center for Electronics and Microtechnology (CSEM)\
-Rue Jaquet-Droz 1\
-2002 Neuchâtel
+KU Leuven\
+Center for Dynamical Systems, Signal Processing, and Data Analytics (STADIUS)\
+Department of Electrical Engineering, Campus Group T\
+Andreas Vesaliusstraat 13\
+3000 Leuven\
+Belgium
 
-E-mail: jona \[dot\] beysens \[at\] csem \[dot\] ch
+
+E-mail: jona \[dot\] beysens \[at\] kuleuven \[dot\] be
