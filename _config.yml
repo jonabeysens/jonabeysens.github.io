@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jona Beysens"
 title_separator          : "-"
 name                     : &name "Jona Beysens"
-description              : &description "Electrical engineer with a passion for wireless communication and embedded systems"
+description              : &description "Assistant Professor on Hardware-aware Embedded AI at KU Leuven"
 url                      : https://jonabeysens.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jonabeysens.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jona Beysens"
   avatar           : "Jona_Beysens.jpg"
-  bio              : "PhD | Engineer | Post-doc at CSEM"
-  location         : "Neuchâtel, CH"
+  bio              : "Assistant Professor at KU Leuven"
+  location         : "Leuven, BE"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yc9KCgIAAAAJ&hl=en"
