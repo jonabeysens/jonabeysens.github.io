@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify">
-Hi there! I am an electrical engineer with a passion for wireless communication and embedded systems. I work as a Senior R&D Engineer at the Swiss Center for Electronics and Microtechnology (<a href="https://csem.ch">CSEM</a>), on embedded machine learning for low-power Internet of Things (IoT) devices.
+Hi there! I I am an Assistant Professor at KU Leuven at the campus Group T, and affiliated with the Center for Dynamical Systems, Signal Processing, and Data Analytics (STADIUS) at the Department of Electrical Engineering (ESAT). In this role, I am leading research activities on HW-aware Embedded AI for innovative healthcare applications. Before, I worked as a Senior R&D Engineer at the Swiss Center for Electronics and Microtechnology (<a href="https://csem.ch">CSEM</a>) in Switzerland, focusing on Edge AI for low-power tiny embedded devices to improve the intelligence of the IoT devices of tomorrow.
 </div>
 <p></p> 
 <div style="text-align: justify">
@@ -21,7 +21,7 @@ Next to the technical aspect, I also love to tell the world why science is inter
 </div>
 <p></p> 
 <div style="text-align: justify">
-In my free time, I volunteer for the Belgian organization Auxilia to help underprivileged students to get better grades in sciences. And oh yes, I love running, cycling, and… good strong coffee! So if you want to grab a coffee, let me know! :-)
+In my free time, I love running, cycling, and… a good strong espresso! ;-)
 </div>
 
 ## Research interests
@@ -30,6 +30,7 @@ In my free time, I volunteer for the Belgian organization Auxilia to help underp
 - Internet of Things
 
 ## Recent news
+- \[09/2025\] Appointed to Assistant Professor at KU Leuven, Belgium
 - \[03/2024\] Promoted to Senior R&D Engineer at CSEM, Switzerland
 - \[10/2023\] Promoted to R&D Engineer at CSEM, Switzerland
 - \[02/2022\] Invited to serve as a TPC member for [EMDL'22](https://emdl22.github.io/)
@@ -40,6 +41,8 @@ In my free time, I volunteer for the Belgian organization Auxilia to help underp
 
 ## Services
 ### Technical Program Committee
+- 2026: DATE'26
+- 2025: IFIP WMNC'25
 - 2024: IEEE WCNC'24, DCAI'24 - special session TDAIE
 - 2023: IEEE WCNC'23
 - 2022: EMBDL'22, IEEE WCNC'22
